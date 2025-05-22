@@ -1,0 +1,49 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build files
+*.tsbuildinfo
+
+# Cache
+.cache/
+.npm/
+
+# Replit specific
+.replit
+.breakpoints
+replit.nix
+.config/
+
+# Other
+*.log
+*.bak
+*.tmp
